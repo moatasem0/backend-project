@@ -1,0 +1,34 @@
+body {
+    min-height: 100vh;
+    padding-bottom: 60px;
+}
+
+
+/* Home */
+
+.card {
+    margin-bottom: 50px;
+}
+
+.card img {
+    max-height: 300px;
+}
+
+
+/* Post page */
+
+.post-page .card img {
+    max-height: auto;
+}
+
+
+/* Footer */
+
+.footer {
+    bottom: 0;
+    width: 100%
+}
+
+.footer p {
+    margin-bottom: 0;
+}
